@@ -7,7 +7,4 @@
   - Email: jordansbarbosa01@gmail.com
   - LinkedIn: https://www.linkedin.com/in/jordan-barbosa
   
-<!---
-jordanjordanb1/jordanjordanb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanjordanb1&show_icons=true&theme=dracula)](https://github.com/jordanjordanb1/github-readme-stats)
